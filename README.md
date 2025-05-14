@@ -1,28 +1,6 @@
 # ArchSpec Basic Template
 
-A modern, feature-rich project management application built with React, TypeScript, and Vite, designed to streamline team collaboration and project tracking.
-
-## Features
-
-- 📊 Interactive Dashboard
-
-  - Real-time project metrics and KPIs
-  - Team activity tracking
-  - Performance analytics
-  - Top contributors tracking
-
-- 👥 Team Collaboration
-
-  - Task management and assignment
-  - Progress monitoring
-  - Real-time updates
-  - Team member contributions
-
-- 📈 Analytics & Reporting
-  - Comprehensive project insights
-  - Performance metrics
-  - Productivity analysis
-  - Custom reporting
+A modern, feature-rich application built with React, TypeScript, and Vite, designed to streamline team collaboration and project tracking.
 
 ## Tech Stack
 

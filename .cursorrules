@@ -1,19 +1,12 @@
-# Project Management Platform - AI Development Rules
+# ArchSpec Basic Template - AI Development Rules
 
-> **Note**: This is a boilerplate/template project designed to serve as a foundation for building real-world project management applications. The structure, components, and patterns established here can be customized and extended to meet specific business requirements.
+> **Note**: This is a boilerplate/template project designed to serve as a foundation for building real-world applications. The structure, components, and patterns established here can be customized and extended to meet specific business requirements.
 
 ## 1. Project Context
 
 ### Project Overview
 
-The Project Management Platform is a web application designed to provide efficient, collaborative tracking of team projects, tasks, and progress through an intuitive and feature-rich interface.
-
-### Core Objectives
-
-- Streamline project and task management
-- Provide transparent team collaboration tools
-- Reduce administrative overhead
-- Enable data-driven productivity insights
+The ArchSpec Basic Template is a web application designed to provide efficient, collaborative tracking of team projects, tasks, and progress through an intuitive and feature-rich interface.
 
 ### Key Domain Considerations
 
@@ -150,4 +143,4 @@ function demonstrateIdealResponse() {
 
 ---
 
-**Note**: This document serves as a comprehensive guide for AI assistants working on the Project Management Platform. Always refer to the most recent project specifications and consult with the development team for specific implementation details.
+**Note**: This document serves as a comprehensive guide for AI assistants working on the ArchSpec Basic Template. Always refer to the most recent project specifications and consult with the development team for specific implementation details.
