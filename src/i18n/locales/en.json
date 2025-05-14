@@ -1,0 +1,42 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "notFound": "Not Found",
+    "confirm": "Confirm",
+    "success": "Success",
+    "error": "Error",
+    "examples": "Examples"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "forgotPassword": "Forgot Password?",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "signOut": "Sign Out",
+    "errors": {
+      "invalidEmail": "Invalid email address",
+      "wrongPassword": "Incorrect password",
+      "weakPassword": "Password should be at least 6 characters",
+      "emailExists": "Email already in use"
+    }
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "projects": "Projects",
+    "tasks": "Tasks",
+    "team": "Team Members",
+    "resources": "Resources",
+    "analytics": "Analytics",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "title": "Dashboard"
+  }
+}
